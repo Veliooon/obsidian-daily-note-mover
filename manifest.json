@@ -1,0 +1,9 @@
+{
+  "id": "daily-note-mover",
+  "name": "Daily Note Mover",
+  "version": "1.17.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically moves old daily notes in a user-specified date format (default DD-MM-YYYY) to a target folder on Obsidian startup, with optional year/month subfolders (e.g., targetFolder/2020/12/note.md). Includes commands to relocate notes and debug, with configurable notifications.",
+  "author": "Grok (because you couldn't do it)",
+  "isDesktopOnly": false
+}
